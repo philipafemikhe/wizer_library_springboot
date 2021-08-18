@@ -9,7 +9,7 @@ To install, follow steps below:
     
 2. Open the project in your preferd IDE eg intelliJ
 3. Right click POM.XML and re-import
-4. Add mysql-connector-java-5.1.48 to your library
+4. Add mysql-connector-java-5.1.48 (saved in the resource>static folder of this repo) to your library
     eg in intellij, click File > project structure,
     click library and click + and click java
     select the folder and click ok
