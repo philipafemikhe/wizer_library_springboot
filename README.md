@@ -1,5 +1,7 @@
 # wizer_library_springboot
 
+Repo:   https://github.com/philipafemikhe/wizer_library_springboot.git
+
 To install, follow steps below:
 
 1.  Clone the repository using
